@@ -1,4 +1,5 @@
 .alif.tj
+.alif.cloud
 .alif.mobi
 .alif.shop
 .thenorthface.com
