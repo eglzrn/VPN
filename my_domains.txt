@@ -1,6 +1,6 @@
-alif.tj
-alif.mobi
-alif.shop
+.alif.tj
+.alif.mobi
+.alif.shop
 .thenorthface.com
 .scene7.com
 .uspoloassn.com
