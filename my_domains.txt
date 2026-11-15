@@ -16,3 +16,5 @@
 .cdn.noibu.com
 .etihad.com
 .airbnb.cn
+.flownote.cc
+
