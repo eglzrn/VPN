@@ -15,4 +15,4 @@
 .zonos.com
 .cdn.noibu.com
 .etihad.com
-
+.airbnb.cn
