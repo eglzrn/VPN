@@ -17,4 +17,7 @@
 .etihad.com
 .airbnb.cn
 .flownote.cc
+.booking.com
+.bstatic.com
+.booking.net
 
