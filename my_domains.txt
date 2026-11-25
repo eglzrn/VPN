@@ -20,4 +20,5 @@
 .booking.com
 .bstatic.com
 .booking.net
-
+.agoda.com
+.agoda.net
