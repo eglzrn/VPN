@@ -16,6 +16,7 @@
 .cdn.noibu.com
 .etihad.com
 .airbnb.cn
+.airbnb.com
 .flownote.cc
 .booking.com
 .bstatic.com
